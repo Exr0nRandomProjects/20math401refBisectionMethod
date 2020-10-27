@@ -1,3 +1,4 @@
+import math
 
 def f(x):
     return eval(func.replace('x', str(x)))
